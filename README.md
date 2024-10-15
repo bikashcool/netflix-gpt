@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Netflix-GPT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **Netflix-GPT** – an intelligent and responsive movie recommendation system powered by the Gemini API and TMDB API. Built using **React.js** and **Tailwind CSS**, this project offers seamless user experiences with Firebase-based authentication and a sleek, intuitive UI.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- **Responsive Design:** Optimized for all devices, providing a great user experience across smartphones, tablets, and desktops.
+- **Movie Recommendations:** Integrated with the **Gemini API** to offer tailored movie suggestions.
+- **Movie Database:** Fetches detailed movie data including ratings, genres, and synopses using the **TMDB API**.
+- **User Authentication:** Secure login and sign-up functionality powered by **Firebase** authentication.
+- **Sleek UI & UX:** Clean and modern interface designed with **Tailwind CSS** to ensure a visually appealing and user-friendly experience.
 
-### `npm start`
+## 🛠 Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React.js** – Frontend framework for building interactive user interfaces.
+- **Tailwind CSS** – Utility-first CSS framework for rapidly building custom designs.
+- **Firebase** – Used for user authentication and real-time database management.
+- **Gemini API** – Integrated to provide personalized movie recommendations.
+- **TMDB API** – Fetches detailed movie data such as popular movies, genres, and user ratings.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📚 What I Learned
 
-### `npm test`
+Building **Netflix-GPT** was an amazing learning experience! Throughout the project, I enhanced my skills in:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React.js and component-based architecture.
+- Using **Tailwind CSS** for designing responsive layouts.
+- Implementing **Firebase** for secure user authentication.
+- Working with **RESTful APIs** such as Gemini and TMDB.
+- Creating a smooth and engaging **UI/UX**.
 
-### `npm run build`
+## 🔧 Installation & Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bikashcool/netflix-gpt.git
